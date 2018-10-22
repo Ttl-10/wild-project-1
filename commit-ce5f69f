@@ -1,0 +1,9 @@
+From ce5f69fd94e41d111d30a9f43dc96b54ffd90365 Mon Sep 17 00:00:00 2001
+From: Nicolas Luzurier <hifrcy@gmail.com>
+Date: Mon, 22 Oct 2018 08:13:54 +0200
+Subject: log
+
+
+diff --git a/wild.php b/wild.php
+new file mode 100644
+index 0000000..e69de29
